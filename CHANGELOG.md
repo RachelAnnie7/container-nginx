@@ -1,3 +1,9 @@
+## 8.0.1 2026-03-10 <code at nfastack dot com>
+
+   ### Added
+      - Nginx 1.29.6
+
+
 ## 8.0.0 2026-02-21 <code at nfastack dot com>
 
 This is a revamp of the entire image and you will more than likely need to reconfigure your projects that rely on this image.
