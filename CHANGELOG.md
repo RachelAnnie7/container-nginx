@@ -1,3 +1,10 @@
+## 8.0.2 2026-03-24 <code at nfastack dot com>
+
+   ### Added
+      - Nginx 1.29.7
+      - Ultimate Bad Bot Blocker V4.2026.03.5842
+
+
 ## 8.0.1 2026-03-10 <code at nfastack dot com>
 
    ### Added
