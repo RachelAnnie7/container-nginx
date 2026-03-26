@@ -5,7 +5,7 @@ services:
     container_name: nginx-app
     labels:
       - traefik.enable=true
-      - traefik.http.routers.nginx-app.rule=Host(`nginx.example.com`)
+      - traefik.http.routers.nginx-app.rule=Host(`nginx.jiriki.tech`)
       - traefik.http.services.nginx-app.loadbalancer.server.port=80
     volumes:
       - ./data:/www/html
